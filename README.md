@@ -1,4 +1,4 @@
-<img align="center" src=https://gist.github.com/user-attachments/assets/5e594e36-a12e-4cb7-8e8e-f6a05893f40e width=1024px>
+<img align="center" src=example.png width=512px>
 
 ## Purpose
 
