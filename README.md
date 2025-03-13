@@ -2,10 +2,10 @@
 
 ## Purpose
 
-Creates gradients for the given color palette.
+Creates gradients for the given color palette.\
 Can be used with UV Mapping in 3D workflows.
 
-Supports different widths for both input and the output.
+Supports different widths for both input and the output.\
 Only implemented for PNG.
 
 # Usage
