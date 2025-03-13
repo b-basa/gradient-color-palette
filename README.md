@@ -10,8 +10,8 @@ Only implemented for PNG.
 
 # Usage
 
-Install the libraries
-Modify config.py contants to fit the input.
+Install the libraries\
+Modify config.py contants to fit the input.\
 Run main.py
 
 Yes, the code is not efficient.
